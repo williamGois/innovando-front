@@ -30,7 +30,6 @@ Siga os passos abaixo para clonar o repositório e iniciar o servidor de desenvo
 1. Clone o repositório:
    ```bash
    git clone https://github.com/williamGois/innovando-front.git
-   |
 
 - `git clone https://github.com/williamGois/innovando-front.git`
 - `npm install`
