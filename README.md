@@ -23,7 +23,7 @@ Teste ultilizando as seguintes stacks:
 
 ---
 
-## Como Começar
+## Como Rodar
 
 Siga os passos abaixo para clonar o repositório e iniciar o servidor de desenvolvimento:
 
