@@ -21,8 +21,6 @@ Teste ultilizando as seguintes stacks:
 - Hooks Pré-commit - [Husky](https://typicode.github.io/husky/)
 - Formatação - [Prettier](https://prettier.io)
 
-_Se você está procurando um modelo inicial de painel administrativo React, confira este [repositório](https://github.com/Kiranism/react-shadcn-dashboard-starter)._
-
 ---
 
 ## Como Começar
@@ -31,10 +29,10 @@ Siga os passos abaixo para clonar o repositório e iniciar o servidor de desenvo
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Kiranism/next-shadcn-dashboard-starter.git
+   git clone https://github.com/williamGois/innovando-front.git
    |
 
-- `git clone https://github.com/Kiranism/next-shadcn-dashboard-starter.git`
+- `git clone https://github.com/williamGois/innovando-front.git`
 - `npm install`
 - Crie um arquivo `.env.local` copiando o arquivo de exemplo;
   `cp env.example.txt .env.local`
